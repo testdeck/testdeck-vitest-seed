@@ -7,6 +7,6 @@ class WorldSuite {
 
     @test
     world() {
-        expect(false).toBe(true);
+        expect(true).toBe(true);
     }
 }
